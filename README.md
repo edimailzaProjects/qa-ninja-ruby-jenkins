@@ -1,9 +1,9 @@
 # qa-ninja-ruby-jenkins
 Repositório do projeto Kabug com Cucumber Capybara e Ruby - em 27/03/2021
 
-##Como executar o projeto
+## Como executar o projeto
 
-*Importante ter o ruby instalado (versão 2.7.2 ou superior)
+* Importante ter o ruby instalado (versão 2.7.2 ou superior)
 
 ### Instalar o Bundler
 '
